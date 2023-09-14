@@ -16,10 +16,6 @@ namespace CLASSES
             
         }
     }
-}
-
-namespace CLASSES
-{
     internal class Program
     {
         static void Main(string[] args)
@@ -38,3 +34,5 @@ namespace CLASSES
         }
     }
 }
+
+
