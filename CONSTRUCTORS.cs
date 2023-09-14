@@ -24,11 +24,6 @@ namespace ConsoleApp1
             Console.WriteLine(student + "present");
         }
     }
-}
-
-namespace constructors
-
-{
     internal class Program
     {
         static void Main(string[] args)
@@ -41,3 +36,6 @@ namespace constructors
         }
     }
 }
+
+
+    
